@@ -1,0 +1,16 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Curso asincronismo en Platzi",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "callback": "node src/callbacks/challenge.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
